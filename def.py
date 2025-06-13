@@ -2,7 +2,7 @@
 # YT B012ED
 import marshal,zlib,base64
 
-#exec(marshal.loads('https://b012ed.github.io')
+#exec(marshal.loads('https://b3kxdev.github.io/B3KXDev.github.io-index.html')
 #zlib&base32&marshal"exec(marshal.load('HgHhbjggTfghUggUgffUhghJhhIbbiGgtGfghHhhuHhjiiBbjjBbhgGggGggTrdFdeSddssGhHhhOjbKinjIjbjIhhhHhggHghhUyggGggggGgggHhGTTTyhhfDdsHjiJiGgjJvvJujGjuHgDdRrgYyyUu')
 
 
